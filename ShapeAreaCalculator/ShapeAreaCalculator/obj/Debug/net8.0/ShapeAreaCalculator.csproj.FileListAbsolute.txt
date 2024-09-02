@@ -1,0 +1,11 @@
+D:\Git\ShapeAreaCalculator\ShapeAreaCalculator\ShapeAreaCalculator\bin\Debug\net8.0\ShapeAreaCalculator.deps.json
+D:\Git\ShapeAreaCalculator\ShapeAreaCalculator\ShapeAreaCalculator\bin\Debug\net8.0\ShapeAreaCalculator.dll
+D:\Git\ShapeAreaCalculator\ShapeAreaCalculator\ShapeAreaCalculator\bin\Debug\net8.0\ShapeAreaCalculator.pdb
+D:\Git\ShapeAreaCalculator\ShapeAreaCalculator\ShapeAreaCalculator\obj\Debug\net8.0\ShapeAreaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\ShapeAreaCalculator\ShapeAreaCalculator\ShapeAreaCalculator\obj\Debug\net8.0\ShapeAreaCalculator.AssemblyInfoInputs.cache
+D:\Git\ShapeAreaCalculator\ShapeAreaCalculator\ShapeAreaCalculator\obj\Debug\net8.0\ShapeAreaCalculator.AssemblyInfo.cs
+D:\Git\ShapeAreaCalculator\ShapeAreaCalculator\ShapeAreaCalculator\obj\Debug\net8.0\ShapeAreaCalculator.csproj.CoreCompileInputs.cache
+D:\Git\ShapeAreaCalculator\ShapeAreaCalculator\ShapeAreaCalculator\obj\Debug\net8.0\ShapeAreaCalculator.dll
+D:\Git\ShapeAreaCalculator\ShapeAreaCalculator\ShapeAreaCalculator\obj\Debug\net8.0\refint\ShapeAreaCalculator.dll
+D:\Git\ShapeAreaCalculator\ShapeAreaCalculator\ShapeAreaCalculator\obj\Debug\net8.0\ShapeAreaCalculator.pdb
+D:\Git\ShapeAreaCalculator\ShapeAreaCalculator\ShapeAreaCalculator\obj\Debug\net8.0\ref\ShapeAreaCalculator.dll
